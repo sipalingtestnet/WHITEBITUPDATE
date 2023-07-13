@@ -8,6 +8,12 @@ exports.addresses = {
   W_2: "ADDRES PENERIMA",
   W_3: "ADDRES PENERIMA",
   W_4: "ADDRES PENERIMA",
+  W_5: "ADDRES PENERIMA",
+  W_6: "ADDRES PENERIMA",
+  W_7: "ADDRES PENERIMA",
+  W_8: "ADDRES PENERIMA",
+  W_9: "ADDRES PENERIMA",
+  W_10: "ADDRES PENERIMA",
 };
 
 exports.keys = {
